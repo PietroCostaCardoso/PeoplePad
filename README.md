@@ -33,6 +33,17 @@ O **PeoplePad** é um sistema de gerenciamento de contatos desenvolvido com **Dj
   - **Importação:** Upload de arquivos CSV para carga em massa de contatos
 - **Interface Amigável** — Paginação, mensagens de feedback (Django Messages) e suporte a upload de imagens.
 
+ #### Melhorias Implementadas recentemente
+
+- **Privacidade e Isolamento de Dados** — A lista de contatos deixou de ser global. Cada usuário visualiza e gerencia apenas seus próprios contatos, impedindo acesso indevido mesmo ao manipular IDs na URL.
+- **Exportação para CSV** — Baixe sua lista completa de contatos em formato Excel/CSV com datas no padrão brasileiro (`dd/mm/aaaa`).
+- **Importação via CSV** — Faça upload de arquivos CSV para cadastrar contatos em massa.
+- **Mensagens de Feedback** — O sistema notifica o usuário após cada ação (criar, editar, excluir contato ou atualizar perfil), eliminando qualquer dúvida sobre o resultado da operação.
+- **Fluxo de Navegação Aprimorado** — Após criar ou editar um contato, o sistema redireciona automaticamente para a lista principal. Botão "Início" disponível em qualquer página.
+- **Dashboard de Métricas** — Painel com estatísticas em tempo real dos seus contatos.
+- **Filtros Avançados** — Filtre contatos por categoria, letra inicial ou busca global.
+- **`requirements.txt`** — Todas as dependências do projeto documentadas para facilitar a instalação.
+
 ---
 
 ### 💻 Tecnologias Utilizadas
