@@ -1,0 +1,31 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+local_settings.py
+db.sqlite3
+.env
+.python-version
+.mypy_cache/
+.ipynb_checkpoints/
+
+# --- Django Media ---
+media/
+
+# --- Ambientes Virtuais ---
+venv/
+env/
+
+# --- Testes ---
+.pytest_cache/
+.coverage
+htmlcov/
+
+# --- VS Code ---
+.vscode/
+!.vscode/settings.json
+
+# --- Sistema Operacional ---
+.DS_Store
+Thumbs.db
