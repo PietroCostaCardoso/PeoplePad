@@ -1,6 +1,12 @@
 #  PeoplePad
+![Autor](https://img.shields.io/badge/Autor-Pietro%20Costa%20Cardoso-blue?style=flat-square&logo=github)
+![Licença](https://img.shields.io/badge/Licença-MIT-yellow.svg?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Original%20Repo-green?style=flat-square)
 
-> [🇧🇷 Português](#-português) · [🇺🇸 English](#-english)
+> **Aviso:** Este é o repositório original. Se você encontrar este código em outro perfil sem os devidos créditos, ele foi plagiado.
+---
+
+[🇧🇷 Português](#-português) · [🇺🇸 English](#-english)
 
 ---
 
