@@ -78,6 +78,28 @@ O **PeoplePad** é um sistema de gerenciamento de contatos desenvolvido com **Dj
 - **Security:** Django Authentication System + access control decorators
 
 ---
+### Screenshots
+### 📸 Screenshots
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/745d3499-b309-4f2f-ad66-5443698a0b89" width="100%" /></td>
+      <td><img src="https://github.com/user-attachments/assets/f62fbcae-7c62-48d8-9efb-5db496ec3215" width="100%" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/6ca75ec1-1c9f-48b8-b7a2-4ba78d4936ec" width="100%" /></td>
+      <td><img src="https://github.com/user-attachments/assets/2dc49c19-81a5-49c4-83da-ae31542d2b02" width="100%" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/fce1448a-f21d-4fc2-afbe-343d9661afa3" width="100%" /></td>
+      <td><img src="https://github.com/user-attachments/assets/e850713f-ac71-4c9c-8bff-79d90b05d0a1" width="100%" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/1ff92c77-705d-42b0-9983-0a8adfcf97f7" width="100%" /></td>
+      <td><img src="https://github.com/user-attachments/assets/875287ed-6f93-4f1d-a20f-bf4bc7fe5a3f" width="100%" /></td>
+    </tr>
+  </table>
+</div>
 ---
 
 ## ⚙️ Como Rodar o Projeto / Getting Started
