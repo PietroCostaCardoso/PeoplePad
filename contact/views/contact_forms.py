@@ -9,7 +9,7 @@ from django.urls import reverse
 from contact.forms import ContactForm
 from contact.models import Contact
 
-#Se enviou o formulário, valida os dados e define o usuário logado como dono
+#Senviou o formulário, valida os dados e define o usuário logado como dono
 @login_required(login_url='contact:login')
 def create(request):
     form_action = reverse('contact:create')
