@@ -77,7 +77,7 @@ def search(request):
         context
     )
 
-#Busca um pelo ID
+#Busca pelo ID
 @login_required(login_url='contact:login')
 def contact(request, contact_id):
     single_contact = get_object_or_404(
