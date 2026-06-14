@@ -14,7 +14,7 @@
 
 ### Visão Geral
 
-O **PeoplePad** é um sistema de gerenciamento de contatos desenvolvido com **Django**, que evoluiu de um projeto de estudos para uma aplicação. Com foco em segurança, organização de dados e experiência do usuário. O projeto vai muito além de um CRUD básico, incorporando funcionalidades de análise de dados.
+O **PeoplePad** é um sistema de gerenciamento de contatos desenvolvido com **Django**, que evoluiu de um projeto de estudos para uma aplicação. Com foco em segurança, organização de dados e experiência do usuário. O projeto vai muito além de um CRUD básico, incorporando funcionalidades de análise de dados..
 
 ---
 
