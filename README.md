@@ -10,7 +10,7 @@
 
 ---
 
-## 🇧🇷 Português
+## Português
 
 ### Visão Geral
 
@@ -18,7 +18,7 @@ O **PeoplePad** é um sistema de gerenciamento de contatos desenvolvido com **Dj
 
 ---
 
-### 🚀 Funcionalidades Principais
+### Funcionalidades Principais
 
 - **Autenticação Completa e Personalizada** — Sistema de login, logout e registro com validações customizadas (verificação de e-mails duplicados, requisitos de senha).
 - **Gestão de Perfil** — Área dedicada para o usuário atualizar seus próprios dados cadastrais.
@@ -46,7 +46,7 @@ O **PeoplePad** é um sistema de gerenciamento de contatos desenvolvido com **Dj
 
 ---
 
-### 💻 Tecnologias Utilizadas
+### Tecnologias Utilizadas
 
 - **Backend:** Python 3 + Django Framework
 - **Banco de Dados:** SQLite (padrão, pronto para migração ao PostgreSQL)
@@ -56,7 +56,7 @@ O **PeoplePad** é um sistema de gerenciamento de contatos desenvolvido com **Dj
 ---
 ---
 
-## 🇺🇸 English
+## English
 
 ### Overview
 
@@ -64,7 +64,7 @@ O **PeoplePad** é um sistema de gerenciamento de contatos desenvolvido com **Dj
 
 ---
 
-### 🚀 Key Features
+### Key Features
 
 - **Full Custom Authentication** — Login, logout, and registration system with custom validations (duplicate email checking, password requirements).
 - **Profile Management** — Dedicated area for users to update their own account information.
@@ -81,7 +81,7 @@ O **PeoplePad** é um sistema de gerenciamento de contatos desenvolvido com **Dj
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 - **Backend:** Python 3 + Django Framework
 - **Database:** SQLite (default, ready for PostgreSQL migration)
@@ -90,7 +90,7 @@ O **PeoplePad** é um sistema de gerenciamento de contatos desenvolvido com **Dj
 
 ---
 ### Screenshots
-### 📸 Screenshots
+### Screenshots
 <div align="center">
   <table>
     <tr>
