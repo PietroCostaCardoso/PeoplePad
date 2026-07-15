@@ -138,3 +138,12 @@ python manage.py createsuperuser
 
 # 7. Inicie o servidor / Start the server
 python manage.py runserver
+```
+## 👤 Autor
+
+Desenvolvido com dedicação por **Pietro Costa Cardoso**.  
+Se este projeto te ajudou, considere dar uma ⭐ no repositório!
+
+Link original: https://github.com/PietroCostaCardoso/PeoplePad
+
+Pietro Costa Cardoso. Todos os direitos reservados sob a Licença MIT.
