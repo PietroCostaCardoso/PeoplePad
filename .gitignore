@@ -7,8 +7,6 @@ local_settings.py
 db.sqlite3
 .env
 .python-version
-.mypy_cache/
-.ipynb_checkpoints/
 
 # --- Django Media ---
 media/
