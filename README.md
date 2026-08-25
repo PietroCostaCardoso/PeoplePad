@@ -2,7 +2,7 @@
 > **Aviso:** Este é o repositório original. Se você encontrar este código em outro perfil sem os devidos créditos, ele foi plagiado.
 ---
 
-[🇧🇷 Português](#-português) · [🇺🇸 English](#-english)
+[Português](#-português) · [English](#-english)
 
 ---
 
